@@ -1,0 +1,13 @@
+{
+  "name": "slack-gmlscripts",
+  "version": "1.0.0",
+  "main": "gmlscript.js",
+  "author": "Wouter Buckens <wou.buc+github@gmail.com>",
+  "license": "MIT",
+  "description": "A Webtask.io script that powers a Slack command to fetch GML scripts from GMLScripts.com",
+
+  "dependencies": {
+    "cheerio": "~0.22.0",
+    "request": "~2.75.0"
+  }
+}
